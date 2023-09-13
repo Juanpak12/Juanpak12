@@ -1,4 +1,11 @@
-### Hi there 👋
+👋 🚀 ¡Hola! soy un apasionado Desarrollador Web Frontend, mi profundo interés por la tecnología me ha impulsado a ahondar mis conocimientos en ella, esto se refleja en mi experiencia de trabajo. 
+
+💻 Mi enfoque meticuloso me permite abordar desafíos complejos con determinación, mi capacidad para trabajar en equipo me ha llevado a contribuir de manera significativa en proyectos exitosos a lo largo de mi carrera. 
+
+🌟 Estoy comprometido con la excelencia, la mejora continua y siempre estoy en busca de oportunidades para seguir creciendo profesionalmente. 
+
+¡Visita mi portafolio en línea para conocer más sobre mi ! 💡👨‍💻
+https://portafolio-juanpak12.netlify.app
 
 
 <!--
